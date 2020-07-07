@@ -1,0 +1,13 @@
+pandas==1.0.5
+tqdm==4.46.1
+seaborn==0.10.1
+matplotlib==3.2.2
+Pygments==2.6.1
+pyLDAvis==2.1.2
+google-play-scraper==0.0.2.7
+nltk==3.5
+numpy==1.19.0
+ipython==7.15.0
+spacy==2.3.0
+gensim==3.8.3
+
